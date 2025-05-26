@@ -60,7 +60,7 @@
 </head>
 <body>
   <div class="container">
-    <a href="https://mknbandlog.wuaze.com/band" class="button" rel="noopener noreferrer">Band Log</a>
+    <a href="https://github.com/OserJeng/BandLog/BandLog.html" class="button" rel="noopener noreferrer">Band Log</a>
     <a href="https://mknbandlog.wuaze.com/camp" class="button" rel="noopener noreferrer">Camp Log</a>
     <a href="https://www.polarsteps.com/JengCamp" class="button" rel="noopener noreferrer">Camp Map</a>
   </div>

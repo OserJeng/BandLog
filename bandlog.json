@@ -1,24 +1,18 @@
 [
-{"type":"header","version":"4.9.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"if0_38977899_mkn"},
-{"type":"table","name":"bandlog","database":"if0_38977899_mkn","data":
-[
-{"b_id":"1","b_date":"2023-09-29","b_band":"淺堤 Shallow Levée","b_location":"華山文創園區","b_activity":"TFT 十週年特展「你想成為什麼樣的大人」","b_remark":null},
-{"b_id":"2","b_date":"2023-11-24","b_band":"淺堤 Shallow Levée","b_location":"誠品生活新店-黑盒子","b_activity":"【向宇宙下訂單】Live Concert_搖滾當代","b_remark":null},
-{"b_id":"3","b_date":"2024-01-27","b_band":"淺堤 Shallow Levée","b_location":"高雄 百樂門","b_activity":"龍𝗧𝗶𝗺𝗲 𝗡𝗼 𝗦𝗲𝗲 新春聯歡晚會","b_remark":null},
-{"b_id":"4","b_date":"2024-03-09","b_band":"淺堤 Shallow Levée","b_location":"忠義路二段×友愛街","b_activity":"台南彩虹遊行","b_remark":null},
-{"b_id":"5","b_date":"2024-09-13","b_band":"淺堤 Shallow Levée","b_location":"Legacy Taipei","b_activity":"我變了 - 臺北場","b_remark":null},
-{"b_id":"6","b_date":"2024-09-22","b_band":"淺堤 Shallow Levée","b_location":"後台Backstage Live","b_activity":"我變了 - 高雄場","b_remark":null},
-{"b_id":"7","b_date":"2024-10-27","b_band":"淺堤 Shallow Levée","b_location":"臺南國立臺灣歷史博物館","b_activity":"寶島大廟埕","b_remark":null},
-{"b_id":"8","b_date":"2024-11-09","b_band":"淺堤 Shallow Levée","b_location":"純園","b_activity":"小森林音樂節","b_remark":null},
-{"b_id":"9","b_date":"2023-10-08","b_band":"庸俗救星 Vulgar Savior","b_location":"嘉義文化創意產業園區","b_activity":"2023 諸羅搖滾","b_remark":null},
-{"b_id":"10","b_date":"2023-12-10","b_band":"庸俗救星 Vulgar Savior","b_location":"麗寶樂園渡假區_東區落羽松森林​","b_activity":"2023 漂遊者 森林音樂祭","b_remark":null},
-{"b_id":"11","b_date":"2024-08-09","b_band":"庸俗救星 Vulgar Savior","b_location":"ATT 4FUN","b_activity":"揪嗨醉派趴","b_remark":null},
-{"b_id":"12","b_date":"2024-12-21","b_band":"庸俗救星 Vulgar Savior","b_location":"高雄中央公園","b_activity":"高雄聖誕生活節","b_remark":null},
-{"b_id":"13","b_date":"2025-02-15","b_band":"庸俗救星 Vulgar Savior","b_location":"HW Lounge Bar 雪茄咖啡酒館","b_activity":"宋家耘","b_remark":null},
-{"b_id":"14","b_date":"2025-03-22","b_band":"庸俗救星 Vulgar Savior","b_location":"有事青年實驗室","b_activity":"青春嘉油站","b_remark":null},
-{"b_id":"15","b_date":"2025-05-03","b_band":"庸俗救星 Vulgar Savior","b_location":"Legacy Taichung","b_activity":"庸俗救星《Little Battle》專輯同名巡迴演唱會 - 最終場","b_remark":null},
-{"b_id":"16","b_date":"2025-05-16","b_band":"淺堤 Shallow Levée","b_location":"桃城豆花光華店","b_activity":"2025環島大亨2.0 - 嘉義站","b_remark":"01.樹影\r\n02.水母漂\r\n03.西邊\r\n04.多崎作\r\n05.我們的未來\r\n06.我變了\r\n07.好不容易\r\n08.怪手\r\n09.火車\r\n10.青春咱的夢\r\n11.陷眠\r\n12.魯冰花\r\n13.恬恬一下仔\r\nEncore.高雄\r\nEncore.月光\r\nEncore.石頭"}
-]
-}
+  {"b_id":"1","b_date":"2023-09-29","b_band":"淺堤 Shallow Levée","b_location":"華山文創園區","b_activity":"TFT 十週年特展「你想成為什麼樣的大人」","b_remark":null},
+  {"b_id":"2","b_date":"2023-11-24","b_band":"淺堤 Shallow Levée","b_location":"誠品生活新店-黑盒子","b_activity":"【向宇宙下訂單】Live Concert_搖滾當代","b_remark":null},
+  {"b_id":"3","b_date":"2024-01-27","b_band":"淺堤 Shallow Levée","b_location":"高雄 百樂門","b_activity":"龍𝗧𝗶𝗺𝗲 𝗡𝗼 𝗦𝗲𝗲 新春聯歡晚會","b_remark":null},
+  {"b_id":"4","b_date":"2024-03-09","b_band":"淺堤 Shallow Levée","b_location":"忠義路二段×友愛街","b_activity":"台南彩虹遊行","b_remark":null},
+  {"b_id":"5","b_date":"2024-09-13","b_band":"淺堤 Shallow Levée","b_location":"Legacy Taipei","b_activity":"我變了 - 臺北場","b_remark":null},
+  {"b_id":"6","b_date":"2024-09-22","b_band":"淺堤 Shallow Levée","b_location":"後台Backstage Live","b_activity":"我變了 - 高雄場","b_remark":null},
+  {"b_id":"7","b_date":"2024-10-27","b_band":"淺堤 Shallow Levée","b_location":"臺南國立臺灣歷史博物館","b_activity":"寶島大廟埕","b_remark":null},
+  {"b_id":"8","b_date":"2024-11-09","b_band":"淺堤 Shallow Levée","b_location":"純園","b_activity":"小森林音樂節","b_remark":null},
+  {"b_id":"9","b_date":"2023-10-08","b_band":"庸俗救星 Vulgar Savior","b_location":"嘉義文化創意產業園區","b_activity":"2023 諸羅搖滾","b_remark":null},
+  {"b_id":"10","b_date":"2023-12-10","b_band":"庸俗救星 Vulgar Savior","b_location":"麗寶樂園渡假區_東區落羽松森林​","b_activity":"2023 漂遊者 森林音樂祭","b_remark":null},
+  {"b_id":"11","b_date":"2024-08-09","b_band":"庸俗救星 Vulgar Savior","b_location":"ATT 4FUN","b_activity":"揪嗨醉派趴","b_remark":null},
+  {"b_id":"12","b_date":"2024-12-21","b_band":"庸俗救星 Vulgar Savior","b_location":"高雄中央公園","b_activity":"高雄聖誕生活節","b_remark":null},
+  {"b_id":"13","b_date":"2025-02-15","b_band":"庸俗救星 Vulgar Savior","b_location":"HW Lounge Bar 雪茄咖啡酒館","b_activity":"宋家耘","b_remark":null},
+  {"b_id":"14","b_date":"2025-03-22","b_band":"庸俗救星 Vulgar Savior","b_location":"有事青年實驗室","b_activity":"青春嘉油站","b_remark":null},
+  {"b_id":"15","b_date":"2025-05-03","b_band":"庸俗救星 Vulgar Savior","b_location":"Legacy Taichung","b_activity":"庸俗救星《Little Battle》專輯同名巡迴演唱會 - 最終場","b_remark":null},
+  {"b_id":"16","b_date":"2025-05-16","b_band":"淺堤 Shallow Levée","b_location":"桃城豆花光華店","b_activity":"2025環島大亨2.0 - 嘉義站","b_remark":"01.樹影\r\n02.水母漂\r\n03.西邊\r\n04.多崎作\r\n05.我們的未來\r\n06.我變了\r\n07.好不容易\r\n08.怪手\r\n09.火車\r\n10.青春咱的夢\r\n11.陷眠\r\n12.魯冰花\r\n13.恬恬一下仔\r\nEncore.高雄\r\nEncore.月光\r\nEncore.石頭"}
 ]
